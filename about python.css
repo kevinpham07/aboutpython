@@ -1,0 +1,33 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#wrapper{
+	width: 970px;
+}
+#header{
+	background-color: #245076;
+}
+#topmenu{
+	background-color: #467EAD;
+	color: white;
+	border-radius: 10px;
+}
+#sidepanel{
+	background-color: #245076;
+}
+#description{
+	background-color: #245076;
+}
+#quote{
+	background-color: #245076;
+}
+#gettingstarted{
+
+}
+#applications{
+	background: linear-gradient(#27557D, #3372A9)
+}
+#footer{
+
+}
